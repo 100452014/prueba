@@ -1,0 +1,30 @@
+<resources>
+    <string name="welcome">WELCOME!</string>
+    <string name="app_name">HOME FAR FROM HOME</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="invited">Enter as Invited</string>
+    <string name="nameu">Enter your user name</string>
+    <string name="mail">Enter e-mail address</string>
+    <string name="telefono">Enter phone number</string>
+    <string name="preferences">Choose you preferences: </string>
+    <string name="sport">Sports</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="cultural">Cultural</string>
+    <string name="social">Social </string>
+    <string name="nightlife">NightLife </string>
+    <string name="language">Enter your language </string>
+    <string name="password">Enter password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="remember">Remember me!</string>
+    <string name="forgot">Forgot your password?</string>
+    <string name="back">Return to home page</string>
+    <string name="enter">Enter</string>
+    <string name="accept">Accept terms and conditions</string>
+    <string name="events">Events to make you feel home</string>
+    <string name="profilebutton">Profile</string>
+
+
+
+
+</resources>
