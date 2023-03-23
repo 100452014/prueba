@@ -34,7 +34,7 @@ public class EventsActivity extends AppCompatActivity {
         linearLayout.addView(imageButton);
 
         TextView textView = new TextView(this);
-        textView.setText(imageResourceId);
+        textView.setText(name);
         linearLayout.addView(textView);
     }
 }
